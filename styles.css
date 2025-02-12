@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(12, 111, 57);
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    }
+    background-color: lightblue; sets the entire page's background color.
+    font-family: Arial, sans-serif; defines the primary and fallback fonts.
+    margin: 20px; adds space around the entire page content.
+    h1 {
+    color: rgb(170, 6, 6);
+    font-size: 2em;
+    }
+    color: navy; changes the heading text color to navy blue.
+    font-size: 2em; makes the heading twice the default text size.
+    p {
+    color: darkslategray;
+    font-size: 1.2em;
+    }
+    color: darkslategray; sets a darker shade for paragraph text.
+    font-size: 1.2em; slightly increases the text size.
+    ul {
+    list-style-type: circle;
+    }
+    list-style-type: square; changes the bullet points in the list to squares.
+    img {
+    max-width: 100%;
+    height: auto;
+    }
+    max-width: 100%; ensures the image never exceeds its container's width.
+    height: auto; maintains the image's aspect ratio.
